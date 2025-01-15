@@ -1,19 +1,444 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-        },
-        {
-            "id": 2,
-            "title": "qui est esse",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-        },
-        {
-            "id": 3,
-            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        }
-    ]
+  "profile": {
+    "name": "Charlene Reed",
+    "username": "Charlene Reed",
+    "email": "charlenereed@gmail.com",
+    "password": "tathemherestjeter",
+    "dob": "1990-01-24T23:00:00.000Z",
+    "address": "San Jose, California, USA",
+    "permanentAddress": "San Jose, California, USA",
+    "city": "San Jose",
+    "postalCode": "45962",
+    "country": "USA",
+    "avatar": "/avatar.png"
+  },
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Livia Bator",
+      "position": "CEO",
+      "avatar": "/contact1.png"
+    },
+    {
+      "id": 2,
+      "name": "Randy Press",
+      "position": "Director",
+      "avatar": "/contact2.png"
+    },
+    {
+      "id": 3,
+      "name": "Workman",
+      "position": "Designer",
+      "avatar": "/contact3.png"
+    },
+    {
+      "id": 4,
+      "name": "John Doe",
+      "position": "Sales",
+      "avatar": "/avatar.png"
+    },
+    {
+      "id": 5,
+      "name": "Max Mustermann",
+      "position": "Engineer",
+      "avatar": "/contact3.png"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "title": "Jemi Wilson",
+      "amount": 200,
+      "direction": "INCOMING",
+      "date": "2022-01-03T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 2,
+      "title": "Livia Bator",
+      "amount": 150,
+      "direction": "OUTGOING",
+      "date": "2022-01-03T12:00:00Z",
+      "type": "BILL"
+    },
+    {
+      "id": 3,
+      "title": "Transaction 3",
+      "amount": 300,
+      "direction": "INCOMING",
+      "date": "2022-01-04T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 4,
+      "title": "Randy Press",
+      "amount": 100,
+      "direction": "OUTGOING",
+      "date": "2022-01-04T12:00:00Z",
+      "type": "ENT"
+    },
+    {
+      "id": 5,
+      "title": "Transaction 5",
+      "amount": 250,
+      "direction": "INCOMING",
+      "date": "2022-01-05T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 6,
+      "title": "Livia Bator",
+      "amount": 120,
+      "direction": "OUTGOING",
+      "date": "2022-01-05T12:00:00Z",
+      "type": "INVESTMENT"
+    },
+    {
+      "id": 7,
+      "title": "Transaction 7",
+      "amount": 180,
+      "direction": "INCOMING",
+      "date": "2022-01-06T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 8,
+      "title": "Randy Press",
+      "amount": 90,
+      "direction": "OUTGOING",
+      "date": "2022-01-06T12:00:00Z",
+      "type": "OTHER"
+    },
+    {
+      "id": 9,
+      "title": "Livia Bator",
+      "amount": 280,
+      "direction": "INCOMING",
+      "date": "2022-01-07T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 10,
+      "title": "Transaction 10",
+      "amount": 70,
+      "direction": "OUTGOING",
+      "date": "2022-01-07T12:00:00Z",
+      "type": "BILL"
+    },
+    {
+      "id": 11,
+      "title": "Transaction 11",
+      "amount": 220,
+      "direction": "INCOMING",
+      "date": "2022-01-08T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 12,
+      "title": "Transaction 12",
+      "amount": 80,
+      "direction": "OUTGOING",
+      "date": "2022-01-08T12:00:00Z",
+      "type": "ENT"
+    },
+    {
+      "id": 13,
+      "title": "Transaction 13",
+      "amount": 190,
+      "direction": "INCOMING",
+      "date": "2022-01-09T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 14,
+      "title": "Transaction 14",
+      "amount": 60,
+      "direction": "OUTGOING",
+      "date": "2022-01-09T12:00:00Z",
+      "type": "INVESTMENT"
+    },
+    {
+      "id": 15,
+      "title": "Transaction 15",
+      "amount": 210,
+      "direction": "INCOMING",
+      "date": "2022-01-10T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 16,
+      "title": "Transaction 16",
+      "amount": 40,
+      "direction": "OUTGOING",
+      "date": "2022-01-10T12:00:00Z",
+      "type": "OTHER"
+    },
+    {
+      "id": 17,
+      "title": "Transaction 17",
+      "amount": 190,
+      "direction": "INCOMING",
+      "date": "2022-01-11T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 18,
+      "title": "Transaction 18",
+      "amount": 60,
+      "direction": "OUTGOING",
+      "date": "2022-01-11T12:00:00Z",
+      "type": "INVESTMENT"
+    },
+    {
+      "id": 19,
+      "title": "Transaction 19",
+      "amount": 210,
+      "direction": "INCOMING",
+      "date": "2022-01-12T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 20,
+      "title": "Transaction 20",
+      "amount": 80,
+      "direction": "OUTGOING",
+      "date": "2022-01-12T12:00:00Z",
+      "type": "ENT"
+    },
+    {
+      "id": 21,
+      "title": "Transaction 21",
+      "amount": 250,
+      "direction": "INCOMING",
+      "date": "2022-01-13T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 22,
+      "title": "Transaction 22",
+      "amount": 70,
+      "direction": "OUTGOING",
+      "date": "2022-01-13T12:00:00Z",
+      "type": "BILL"
+    },
+    {
+      "id": 23,
+      "title": "Transaction 23",
+      "amount": 220,
+      "direction": "INCOMING",
+      "date": "2022-01-14T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 24,
+      "title": "Transaction 24",
+      "amount": 90,
+      "direction": "OUTGOING",
+      "date": "2022-01-14T12:00:00Z",
+      "type": "OTHER"
+    },
+    {
+      "id": 25,
+      "title": "Transaction 25",
+      "amount": 280,
+      "direction": "INCOMING",
+      "date": "2022-01-15T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 26,
+      "title": "Transaction 26",
+      "amount": 70,
+      "direction": "OUTGOING",
+      "date": "2022-01-15T12:00:00Z",
+      "type": "ENT"
+    },
+    {
+      "id": 27,
+      "title": "Transaction 27",
+      "amount": 180,
+      "direction": "INCOMING",
+      "date": "2022-01-16T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 28,
+      "title": "Transaction 28",
+      "amount": 120,
+      "direction": "OUTGOING",
+      "date": "2022-01-16T12:00:00Z",
+      "type": "INVESTMENT"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "balance": 500,
+      "cardHolder": "Alice",
+      "expiryDate": {
+        "month": 8,
+        "year": 2027
+      },
+      "cardNumber": "1234 5678 9012 3456"
+    },
+    {
+      "id": 2,
+      "balance": 700,
+      "cardHolder": "Bob",
+      "expiryDate": {
+        "month": 5,
+        "year": 2029
+      },
+      "cardNumber": "1234 9876 5432 1098"
+    },
+    {
+      "id": 3,
+      "balance": 300,
+      "cardHolder": "Charlie",
+      "expiryDate": {
+        "month": 10,
+        "year": 2028
+      },
+      "cardNumber": "1234 2468 1357 8024"
+    },
+    {
+      "id": 4,
+      "balance": 450,
+      "cardHolder": "David",
+      "expiryDate": {
+        "month": 6,
+        "year": 2031
+      },
+      "cardNumber": "1234 9876 5432 1098"
+    },
+    {
+      "id": 5,
+      "balance": 520,
+      "cardHolder": "Emily",
+      "expiryDate": {
+        "month": 4,
+        "year": 2032
+      },
+      "cardNumber": "1234 5678 9012 3456"
+    },
+    {
+      "id": 6,
+      "balance": 370,
+      "cardHolder": "Fiona",
+      "expiryDate": {
+        "month": 7,
+        "year": 2030
+      },
+      "cardNumber": "1234 9876 5432 1098"
+    },
+    {
+      "id": 7,
+      "balance": 690,
+      "cardHolder": "George",
+      "expiryDate": {
+        "month": 2,
+        "year": 2026
+      },
+      "cardNumber": "1234 2468 1357 8024"
+    },
+    {
+      "id": 8,
+      "balance": 420,
+      "cardHolder": "Hannah",
+      "expiryDate": {
+        "month": 12,
+        "year": 2027
+      },
+      "cardNumber": "1234 1357 8024 2468"
+    },
+    {
+      "id": 9,
+      "balance": 580,
+      "cardHolder": "Ian",
+      "expiryDate": {
+        "month": 1,
+        "year": 2033
+      },
+      "cardNumber": "1234 9012 3456 5678"
+    },
+    {
+      "id": 10,
+      "balance": 430,
+      "cardHolder": "Jack",
+      "expiryDate": {
+        "month": 8,
+        "year": 2028
+      },
+      "cardNumber": "1234 5432 1098 9876"
+    },
+    {
+      "id": 11,
+      "balance": 760,
+      "cardHolder": "Kate",
+      "expiryDate": {
+        "month": 5,
+        "year": 2029
+      },
+      "cardNumber": "1234 8024 2468 1357"
+    },
+    {
+      "id": 12,
+      "balance": 510,
+      "cardHolder": "Liam",
+      "expiryDate": {
+        "month": 11,
+        "year": 2031
+      },
+      "cardNumber": "1234 1248 2468 1357"
+    },
+    {
+      "id": 13,
+      "balance": 740,
+      "cardHolder": "Mia",
+      "expiryDate": {
+        "month": 3,
+        "year": 2034
+      },
+      "cardNumber": "1234 8024 1357 2468"
+    },
+    {
+      "id": 14,
+      "balance": 670,
+      "cardHolder": "Frank",
+      "expiryDate": {
+        "month": 9,
+        "year": 2029
+      },
+      "cardNumber": "1234 5678 9012 3456"
+    },
+    {
+      "id": 15,
+      "balance": 620,
+      "cardHolder": "Eve",
+      "expiryDate": {
+        "month": 11,
+        "year": 2030
+      },
+      "cardNumber": "1234 2468 1357 8024"
+    },
+    {
+      "id": 16,
+      "balance": 800,
+      "cardHolder": "Dave",
+      "expiryDate": {
+        "month": 3,
+        "year": 2033
+      },
+      "cardNumber": "1234 1234 5678 5678"
+    }
+  ],
+  "balanceProgression": [
+    { "month": "2024-07", "value": 120 },
+    { "month": "2024-08", "value": 350 },
+    { "month": "2024-09", "value": 240 },
+    { "month": "2024-10", "value": 720 },
+    { "month": "2024-11", "value": 200 },
+    { "month": "2024-12", "value": 540 },
+    { "month": "2025-01", "value": 410 }
+  ]
 }
