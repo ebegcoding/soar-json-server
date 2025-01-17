@@ -75,7 +75,7 @@
       "amount": 100,
       "direction": "OUTGOING",
       "date": "2022-01-04T12:00:00Z",
-      "type": "ENT"
+      "type": "OTHER"
     },
     {
       "id": 5,
@@ -139,7 +139,7 @@
       "amount": 80,
       "direction": "OUTGOING",
       "date": "2022-01-08T12:00:00Z",
-      "type": "ENT"
+      "type": "OTHER"
     },
     {
       "id": 13,
@@ -251,7 +251,7 @@
       "amount": 70,
       "direction": "OUTGOING",
       "date": "2022-01-04T08:00:00Z",
-      "type": "ENT"
+      "type": "OTHER"
     },
     {
       "id": 27,
