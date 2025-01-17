@@ -50,7 +50,7 @@
       "title": "Jemi Wilson",
       "amount": 200,
       "direction": "INCOMING",
-      "date": "2022-01-16T12:00:00Z",
+      "date": "2025-01-16T12:00:00Z",
       "type": null
     },
     {
@@ -58,7 +58,7 @@
       "title": "Livia Bator",
       "amount": 150,
       "direction": "OUTGOING",
-      "date": "2022-01-16T08:00:00Z",
+      "date": "2025-01-16T08:00:00Z",
       "type": "BILL"
     },
     {
@@ -66,7 +66,7 @@
       "title": "Transaction 3",
       "amount": 300,
       "direction": "INCOMING",
-      "date": "2022-01-15T12:00:00Z",
+      "date": "2025-01-15T12:00:00Z",
       "type": null
     },
     {
@@ -74,7 +74,7 @@
       "title": "Randy Press",
       "amount": 100,
       "direction": "OUTGOING",
-      "date": "2022-01-04T12:00:00Z",
+      "date": "2025-01-04T12:00:00Z",
       "type": "OTHER"
     },
     {
@@ -82,7 +82,7 @@
       "title": "Transaction 5",
       "amount": 250,
       "direction": "INCOMING",
-      "date": "2022-01-05T08:00:00Z",
+      "date": "2025-01-05T08:00:00Z",
       "type": null
     },
     {
@@ -90,7 +90,7 @@
       "title": "Livia Bator",
       "amount": 120,
       "direction": "OUTGOING",
-      "date": "2022-01-05T12:00:00Z",
+      "date": "2025-01-05T12:00:00Z",
       "type": "INVESTMENT"
     },
     {
@@ -98,7 +98,7 @@
       "title": "Transaction 7",
       "amount": 180,
       "direction": "INCOMING",
-      "date": "2022-01-06T08:00:00Z",
+      "date": "2025-01-06T08:00:00Z",
       "type": null
     },
     {
@@ -106,7 +106,7 @@
       "title": "Randy Press",
       "amount": 90,
       "direction": "OUTGOING",
-      "date": "2022-01-06T12:00:00Z",
+      "date": "2025-01-06T12:00:00Z",
       "type": "OTHER"
     },
     {
@@ -114,7 +114,7 @@
       "title": "Livia Bator",
       "amount": 280,
       "direction": "INCOMING",
-      "date": "2022-01-07T08:00:00Z",
+      "date": "2025-01-07T08:00:00Z",
       "type": null
     },
     {
@@ -122,7 +122,7 @@
       "title": "Transaction 10",
       "amount": 70,
       "direction": "OUTGOING",
-      "date": "2022-01-07T12:00:00Z",
+      "date": "2025-01-07T12:00:00Z",
       "type": "BILL"
     },
     {
@@ -130,7 +130,7 @@
       "title": "Transaction 11",
       "amount": 220,
       "direction": "INCOMING",
-      "date": "2022-01-08T08:00:00Z",
+      "date": "2025-01-08T08:00:00Z",
       "type": null
     },
     {
@@ -138,7 +138,7 @@
       "title": "Transaction 12",
       "amount": 80,
       "direction": "OUTGOING",
-      "date": "2022-01-08T12:00:00Z",
+      "date": "2025-01-08T12:00:00Z",
       "type": "OTHER"
     },
     {
@@ -146,7 +146,7 @@
       "title": "Transaction 13",
       "amount": 190,
       "direction": "INCOMING",
-      "date": "2022-01-09T08:00:00Z",
+      "date": "2025-01-09T08:00:00Z",
       "type": null
     },
     {
@@ -154,7 +154,7 @@
       "title": "Transaction 14",
       "amount": 60,
       "direction": "OUTGOING",
-      "date": "2022-01-09T12:00:00Z",
+      "date": "2025-01-09T12:00:00Z",
       "type": "INVESTMENT"
     },
     {
@@ -162,7 +162,7 @@
       "title": "Transaction 15",
       "amount": 210,
       "direction": "INCOMING",
-      "date": "2022-01-10T08:00:00Z",
+      "date": "2025-01-10T08:00:00Z",
       "type": null
     },
     {
@@ -170,7 +170,7 @@
       "title": "Transaction 16",
       "amount": 40,
       "direction": "OUTGOING",
-      "date": "2022-01-10T12:00:00Z",
+      "date": "2025-01-10T12:00:00Z",
       "type": "OTHER"
     },
     {
@@ -178,7 +178,7 @@
       "title": "Transaction 17",
       "amount": 190,
       "direction": "INCOMING",
-      "date": "2022-01-11T08:00:00Z",
+      "date": "2025-01-11T08:00:00Z",
       "type": null
     },
     {
@@ -186,7 +186,7 @@
       "title": "Transaction 18",
       "amount": 60,
       "direction": "OUTGOING",
-      "date": "2022-01-11T12:00:00Z",
+      "date": "2025-01-11T12:00:00Z",
       "type": "INVESTMENT"
     },
     {
@@ -194,7 +194,7 @@
       "title": "Transaction 19",
       "amount": 210,
       "direction": "INCOMING",
-      "date": "2022-01-12T08:00:00Z",
+      "date": "2025-01-12T08:00:00Z",
       "type": null
     },
     {
@@ -202,7 +202,7 @@
       "title": "Transaction 20",
       "amount": 80,
       "direction": "OUTGOING",
-      "date": "2022-01-12T12:00:00Z",
+      "date": "2025-01-12T12:00:00Z",
       "type": "ENT"
     },
     {
@@ -210,7 +210,7 @@
       "title": "Transaction 21",
       "amount": 250,
       "direction": "INCOMING",
-      "date": "2022-01-13T08:00:00Z",
+      "date": "2025-01-13T08:00:00Z",
       "type": null
     },
     {
@@ -218,7 +218,7 @@
       "title": "Transaction 22",
       "amount": 70,
       "direction": "OUTGOING",
-      "date": "2022-01-13T12:00:00Z",
+      "date": "2025-01-13T12:00:00Z",
       "type": "BILL"
     },
     {
@@ -226,7 +226,7 @@
       "title": "Transaction 23",
       "amount": 220,
       "direction": "INCOMING",
-      "date": "2022-01-14T08:00:00Z",
+      "date": "2025-01-14T08:00:00Z",
       "type": null
     },
     {
@@ -234,7 +234,7 @@
       "title": "Transaction 24",
       "amount": 90,
       "direction": "OUTGOING",
-      "date": "2022-01-14T12:00:00Z",
+      "date": "2025-01-14T12:00:00Z",
       "type": "OTHER"
     },
     {
@@ -242,7 +242,7 @@
       "title": "Transaction 25",
       "amount": 280,
       "direction": "INCOMING",
-      "date": "2022-01-15T08:00:00Z",
+      "date": "2025-01-15T08:00:00Z",
       "type": null
     },
     {
@@ -250,7 +250,7 @@
       "title": "Transaction 26",
       "amount": 70,
       "direction": "OUTGOING",
-      "date": "2022-01-04T08:00:00Z",
+      "date": "2025-01-04T08:00:00Z",
       "type": "OTHER"
     },
     {
@@ -258,7 +258,7 @@
       "title": "Transaction 27",
       "amount": 180,
       "direction": "INCOMING",
-      "date": "2022-01-03T12:00:00Z",
+      "date": "2025-01-03T12:00:00Z",
       "type": null
     },
     {
@@ -266,7 +266,7 @@
       "title": "Transaction 28",
       "amount": 120,
       "direction": "OUTGOING",
-      "date": "2022-01-03T08:00:00Z",
+      "date": "2025-01-03T08:00:00Z",
       "type": "INVESTMENT"
     }
   ],
@@ -433,12 +433,12 @@
     }
   ],
   "balanceProgression": [
-    { "month": "2024-07", "value": 120 },
-    { "month": "2024-08", "value": 350 },
-    { "month": "2024-09", "value": 240 },
-    { "month": "2024-10", "value": 720 },
-    { "month": "2024-11", "value": 200 },
-    { "month": "2024-12", "value": 540 },
+    { "month": "2025-07", "value": 120 },
+    { "month": "2025-08", "value": 350 },
+    { "month": "2025-09", "value": 240 },
+    { "month": "2025-10", "value": 720 },
+    { "month": "2025-11", "value": 200 },
+    { "month": "2025-12", "value": 540 },
     { "month": "2025-01", "value": 410 }
   ]
 }
