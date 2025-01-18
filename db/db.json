@@ -489,12 +489,12 @@
     }
   ],
   "balanceProgression": [
-    { "month": "2025-07", "value": 120 },
-    { "month": "2025-08", "value": 350 },
-    { "month": "2025-09", "value": 240 },
-    { "month": "2025-10", "value": 720 },
-    { "month": "2025-11", "value": 200 },
-    { "month": "2025-12", "value": 540 },
+    { "month": "2024-07", "value": 120 },
+    { "month": "2024-08", "value": 350 },
+    { "month": "2024-09", "value": 240 },
+    { "month": "2024-10", "value": 720 },
+    { "month": "2024-11", "value": 200 },
+    { "month": "2024-12", "value": 540 },
     { "month": "2025-01", "value": 410 }
   ]
 }
