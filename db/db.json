@@ -268,6 +268,62 @@
       "direction": "OUTGOING",
       "date": "2025-01-03T08:00:00Z",
       "type": "INVESTMENT"
+    },
+    {
+      "id": 29,
+      "title": "Transaction B",
+      "amount": 270,
+      "direction": "OUTGOING",
+      "date": "2025-01-17T12:00:00Z",
+      "type": "BILL"
+    },
+    {
+      "id": 30,
+      "title": "Transaction 30",
+      "amount": 520,
+      "direction": "INCOMING",
+      "date": "2025-01-17T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 31,
+      "title": "Transaction 31",
+      "amount": 290,
+      "direction": "OUTGOING",
+      "date": "2025-01-18T12:00:00Z",
+      "type": "ENT"
+    },
+    {
+      "id": 32,
+      "title": "Transaction 32",
+      "amount": 320,
+      "direction": "INCOMING",
+      "date": "2025-01-18T08:00:00Z",
+      "type": null
+    },
+    {
+      "id": 33,
+      "title": "Randy Press",
+      "amount": 25,
+      "direction": "OUTGOING",
+      "date": "2025-01-18T08:00:00Z",
+      "type": "OTHER"
+    },
+    {
+      "id": 34,
+      "title": "Livia Bator",
+      "amount": 608,
+      "direction": "INCOMING",
+      "date": "2025-01-19T12:00:00Z",
+      "type": null
+    },
+    {
+      "id": 35,
+      "title": "Jemi Wilson",
+      "amount": 120,
+      "direction": "OUTGOING",
+      "date": "2025-01-17T08:00:00Z",
+      "type": "INVESTMENT"
     }
   ],
   "cards": [
